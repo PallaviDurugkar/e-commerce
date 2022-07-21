@@ -1,0 +1,34 @@
+class Assets {
+  static const bikini = "assets/bikini.png";
+  static const dress = "assets/dress.png";
+  static const facebook = "assets/Facebook.png";
+  static const google = "assets/Google.png";
+  static const group = "assets/group.png";
+  static const imageproduct = "assets/image_product.png";
+  static const logo = "assets/logo.png";
+  static const logowhite = "assets/logo_white.png";
+  static const manBag = "assets/manbag.png";
+  static const manpants = "assets/manpants.png";
+  static const manShoes = "assets/manshoes.png";
+  static const manUnderwear = "assets/manunderwear.png";
+  static const james = "assets/james.png";
+  static const ontheWay = "assets/undraw_On_the_way_re_swjt.png";
+  static const onlineGroceries = "assets/undraw_online_groceries_a02y.png";
+  static const onlinePayment = "assets/undraw_Online_payments_re_y8f2.png";
+  static const offerBanner = "assets/offer_banner.png";
+  static const product = "assets/product.png";
+  static const pimage1 = "assets/pimage_1.png";
+  static const pimage2 = "assets/pimage_2.png";
+  static const pimage3 = "assets/pimage3.png";
+  static const pimage4 = "assets/pimage4.png";
+  static const pimage5 = "assets/pimage5.png";
+  static const pimage6 = "assets/pimage6.png";
+  static const pimage7 = "assets/pimage7.png";
+  static const productBanner = "assets/product_banner.png";
+  static const skirt = "assets/skirt.png";
+  static const tShirt = "assets/tshirt.png";
+  static const womanBag = "assets/womanbag.png";
+  static const womanPants = "assets/womanpants.png";
+  static const womanShoes = "assets/womanshoes.png";
+  static const womanShirt = "assets/womantshirt.png";
+}
